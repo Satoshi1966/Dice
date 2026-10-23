@@ -1,6 +1,6 @@
 # Genshin GACHAシュミレーション
 
-!(./img/mainView.png)
+!(/img/mainView.png)
 
 
 Java Servlet・JSPを使用した、6種類の出目をすべてそろえるWebアプリケーションです。キャラクター画像を使ったガチャ風の画面で、コンプリートまでの回数と合計を確認できます。
